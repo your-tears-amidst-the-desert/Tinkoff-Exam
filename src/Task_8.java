@@ -1,3 +1,4 @@
+//задача про стартап по продаже доменов
 import java.util.Locale;
 import java.util.Scanner;
 
