@@ -1,3 +1,4 @@
+//задача про отделы
 import java.util.Scanner;
 
 public class Task_1 {
