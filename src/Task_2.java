@@ -1,3 +1,4 @@
+//задача про команды
 import java.util.*;
 
 public class Task_2 {
