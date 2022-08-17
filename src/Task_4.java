@@ -1,4 +1,5 @@
 //задача про файл конфигурации
+//решена только для первого теста
 import java.util.*;
 import java.util.regex.Pattern;
 
