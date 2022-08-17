@@ -1,4 +1,4 @@
-//задача про подписки
+//задача про подписки 
 import java.util.*;
 
 public class Task_3 {
